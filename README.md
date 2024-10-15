@@ -1,6 +1,6 @@
 # 🌟 GroupMJ_MyTrailer 🌟
 
-## 👥 Bidragsydere:
+## 👥 Contributors:
 - **Mohamed Salim**
   - [LinkedIn](https://www.linkedin.com/in/mohamed-salim/)
   
