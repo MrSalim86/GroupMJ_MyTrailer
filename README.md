@@ -284,5 +284,5 @@ Tactical design helps to define the specific actions, events, and rules that gov
 ![Container Diagram](/ContextDiagram.png)
 
 ### Context Diagram
-![Context Diagram](path_to_your_repo/ContextDiagram.png)
+![Context Diagram](/ContainerDiagram.png)
 
