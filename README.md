@@ -1,6 +1,6 @@
-# 🌟 GroupMJ_MyTrailer 🌟 
+# 🌟 GroupMJ_MyTrailer 🌟
 
-## 👥 Contributors:
+## 👥 Bidragsydere:
 - **Mohamed Salim**
   - [LinkedIn](https://www.linkedin.com/in/mohamed-salim/)
   
@@ -9,31 +9,31 @@
 
 ---
 
-## 📜 Scenario Overview:
-**MyTrailer** is a car trailer rental service that operates through partnerships with various locations (e.g., Jem og Fix, Fog), providing customers with short-term rental solutions. Our goal is to make the process of renting trailers as simple and convenient as possible through a mobile app. 
+## 📜 Scenarieoversigt:
+**MyTrailer** tilbyder trailerudlejning via partnere som f.eks. Jem og Fix og Fog, hvor kunder kan leje trailere til korttidsbrug. Vores mål er at gøre det nemt og bekvemt for kunderne at leje en trailer gennem en mobilapp.
 
-Customers can use the app to:
-- Select a trailer from a specific location.
-- Rent trailers for a maximum of 24 hours.
-- Pay for additional services like insurance.
-- Return trailers on time to avoid late fees.
-- Book long-term, overnight rentals via a separate website.
-
----
-
-## 🎯 Business Goals:
-- **Facilitate trailer rentals** via a user-friendly mobile application.
-- **Manage trailer availability** across multiple partner locations.
-- **Handle payments** for optional insurance and late return fees.
-- **Maintain partnerships** with businesses providing space for trailer parking.
-- **Separate management** of long-term rentals from short-term rentals.
+Med appen kan kunderne:
+- Vælge en trailer fra en specifik lokation.
+- Leje trailere i op til 24 timer.
+- Tilkøbe ekstra services som forsikring.
+- Undgå bøder ved at aflevere traileren til tiden.
+- Booke langtidsleje (overnatning) via en separat hjemmeside.
 
 ---
 
-## 📱 Technology Stack:
-- [Insert technology stack here, e.g., React, Node.js, MySQL, etc.]
+## 🎯 Forretningsmål:
+- **Facilitere trailerudlejning** via en brugervenlig mobilapp.
+- **Administrere trailer-tilgængelighed** på forskellige partnerlokationer.
+- **Håndtere betalinger** for forsikringer og gebyrer ved forsinket aflevering.
+- **Vedligeholde samarbejder** med virksomheder, der stiller parkeringsplads til rådighed for trailere.
+- **Separat håndtering** af langtidsleje fra korttidsleje.
 
-## 🚀 Installation and Setup:
-1. Clone the repository:
+---
+
+## 📱 Teknologistak:
+- [Tilføj teknologistak her, f.eks. React, Node.js, MySQL osv.]
+
+## 🚀 Installation og Opsætning:
+1. Klon repositoryet:
    ```bash
    git clone https://github.com/your-username/GroupMJ_MyTrailer.git
