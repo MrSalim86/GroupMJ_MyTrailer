@@ -281,7 +281,7 @@ Tactical design helps to define the specific actions, events, and rules that gov
 ## C4 Diagram
 
 ### Container Diagram
-![Container Diagram](MrSalim86/GroupMJ_MyTrailer/ContextDiagram.png)
+![Container Diagram](/ContextDiagram.png)
 
 ### Context Diagram
 ![Context Diagram](path_to_your_repo/ContextDiagram.png)
