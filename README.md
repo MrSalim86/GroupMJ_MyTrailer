@@ -44,7 +44,7 @@ Med appen kan kunderne:
 Strategic design helps to break down complex business domains into manageable parts. Below is a detailed breakdown of the process:
 
 <details>
-  <summary><strong> Identify Subdomains</strong></summary>
+  <summary><strong>Identify Subdomains</strong></summary>
   
   In this step, we break down the overall domain into subdomains, which represent different areas of business responsibility.
 
@@ -78,7 +78,7 @@ Strategic design helps to break down complex business domains into manageable pa
 </details>
 
 <details>
-  <summary><strong>Step 3: Define Bounded Contexts</strong></summary>
+  <summary><strong>Define Bounded Contexts</strong></summary>
   
   Each subdomain is implemented as a **Bounded Context**, which defines clear boundaries around where specific business rules and models apply.
 
@@ -110,7 +110,7 @@ Strategic design helps to break down complex business domains into manageable pa
 </details>
 
 <details>
-  <summary><strong>Step 4: Context Mapping</strong></summary>
+  <summary><strong>Context Mapping</strong></summary>
   
   In this step, we identify the relationships between the different **Bounded Contexts** to understand how data flows and dependencies are managed.
 
