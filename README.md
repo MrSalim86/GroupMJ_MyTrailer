@@ -10,7 +10,7 @@
 ---
 
 ## 📜 Scenarieoversigt:
-**MyTrailer** tilbyder trailerudlejning via partnere som f.eks. Jem og Fix og Fog, hvor kunder kan leje trailere til korttidsbrug. Vores mål er at gøre det nemt og bekvemt for kunderne at leje en trailer gennem en mobilapp.
+**MyTrailer** tilbyder trailerudlejning via partnere som f.eks. Jem & Fix og Fog, hvor kunder kan leje trailere til korttidsbrug. Vores mål er at gøre det nemt for kunderne at leje en trailer gennem en mobilapp.
 
 Med appen kan kunderne:
 - Vælge en trailer fra en specifik lokation.
@@ -36,4 +36,4 @@ Med appen kan kunderne:
 ## 🚀 Installation og Opsætning:
 1. Klon repositoryet:
    ```bash
-   git clone https://github.com/your-username/GroupMJ_MyTrailer.git
+   git clone https://github.com/MrSalim86/GroupMJ_MyTrailer.git
