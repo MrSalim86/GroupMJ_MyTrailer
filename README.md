@@ -278,3 +278,11 @@ Tactical design helps to define the specific actions, events, and rules that gov
       - Policy Triggered: Overnight Rental Policy
 </details>
 
+## C4 Diagram
+
+### Container Diagram
+![Container Diagram](path_to_your_repo/Container%20diagram.png)
+
+### Context Diagram
+![Context Diagram](path_to_your_repo/ContextDiagram.png)
+
