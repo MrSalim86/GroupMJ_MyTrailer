@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\aggregate\\partnercompanyaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\aggregate\\partnercompanyaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\billinginformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\billinginformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\entities\\partnercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\entities\\partnercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\paymentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\paymentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\aggregate\\locationaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\aggregate\\locationaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\aggregate\\rentalaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\aggregate\\rentalaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\aggregate\\traileraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\aggregate\\traileraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\aggregate\\customeraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\aggregate\\customeraggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\rentalfees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\rentalfees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\trailerspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\trailerspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\rentalperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\rentalperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\valueobjects\\insurancedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\valueobjects\\insurancedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF61A95-4261-46E2-9B15-B2DF413BDF44}|MyTrailer.Domain\\MyTrailer.Domain.csproj|solutionrelative:mytrailer.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED20CCEE-2987-40A5-8FDF-670651E66874}|MyTrailer.Application\\MyTrailer.Application.csproj|c:\\users\\moham\\source\\repos\\groupmj_mytrailer\\mytrailersolution\\mytrailer.application\\mytrailer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED20CCEE-2987-40A5-8FDF-670651E66874}|MyTrailer.Application\\MyTrailer.Application.csproj|solutionrelative:mytrailer.application\\mytrailer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillingInformation.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\BillingInformation.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\BillingInformation.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\BillingInformation.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\BillingInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:37:02.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartnerCompanyAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\PartnerCompanyAggregate.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Aggregate\\PartnerCompanyAggregate.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\PartnerCompanyAggregate.cs*",
+              "RelativeToolTip": "MyTrailer.Domain\\Aggregate\\PartnerCompanyAggregate.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:31:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\LocationAggregate.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Aggregate\\LocationAggregate.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\LocationAggregate.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Aggregate\\LocationAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:30:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\RentalAggregate.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Aggregate\\RentalAggregate.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\RentalAggregate.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Aggregate\\RentalAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:29:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrailerAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\TrailerAggregate.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Aggregate\\TrailerAggregate.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\TrailerAggregate.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Aggregate\\TrailerAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:28:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartnerCompany.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\PartnerCompany.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Entities\\PartnerCompany.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\PartnerCompany.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Entities\\PartnerCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:19:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\CustomerAggregate.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Aggregate\\CustomerAggregate.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Aggregate\\CustomerAggregate.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Aggregate\\CustomerAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:27:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentInformation.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\PaymentInformation.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\PaymentInformation.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\PaymentInformation.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\PaymentInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:23:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RentalFees.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\RentalFees.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\RentalFees.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\RentalFees.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\RentalFees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:24:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\Address.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:24:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrailerSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\TrailerSpecifications.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\TrailerSpecifications.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\TrailerSpecifications.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\TrailerSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:22:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RentalPeriod.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\RentalPeriod.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\RentalPeriod.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\RentalPeriod.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\RentalPeriod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:21:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsuranceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\InsuranceDetails.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\ValueObjects\\InsuranceDetails.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\ValueObjects\\InsuranceDetails.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\ValueObjects\\InsuranceDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:20:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Entities\\Location.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Location.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:18:35.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Rental.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Entities\\Rental.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Rental.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Entities\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:18:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Trailer.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Entities\\Trailer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Trailer.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Entities\\Trailer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:17:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MyTrailer.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "MyTrailer.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:16:31.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyTrailer.Application",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Application\\MyTrailer.Application.csproj",
+              "RelativeDocumentMoniker": "MyTrailer.Application\\MyTrailer.Application.csproj",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Application\\MyTrailer.Application.csproj*",
+              "RelativeToolTip": "MyTrailer.Application\\MyTrailer.Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T22:07:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

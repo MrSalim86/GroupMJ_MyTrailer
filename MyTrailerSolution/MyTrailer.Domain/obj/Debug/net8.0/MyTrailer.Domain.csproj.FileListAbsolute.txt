@@ -1,0 +1,5 @@
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.AssemblyInfo.cs
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.sourcelink.json
