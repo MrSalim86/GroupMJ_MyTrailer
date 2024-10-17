@@ -102,6 +102,44 @@ Aggregates bundle entities and value objects to ensure data consistency. Each ag
 
 By leveraging **DDD**, the model aligns closely with the real-world processes of the trailer rental industry, ensuring that the system evolves naturally with business requirements.
 
+## 🔌 Ports and Adapters (Hexagonal Architecture) Implementation
+
+The system is built using the **Ports and Adapters (Hexagonal)** architecture, a pattern that decouples the core domain logic from external systems. This approach allows infrastructure components, such as databases, to be easily swapped without altering the domain logic.
+
+---
+
+### 🌀 **Ports (Interfaces)**: Connecting the Domain to the Outside World
+Ports define how the core domain interacts with external systems by providing a set of interfaces. These ports serve as entry points for data persistence, external communication, or service integration.
+
+- **`ICustomerRepository`**: Defines methods for storing and retrieving `Customer` entities (e.g., `Add`, `GetById`).
+- **`IRentalRepository`**: Manages operations for storing and retrieving `Rental` data.
+
+---
+
+### 🔌 **Adapters (Implementations)**: External Communication Made Easy
+Adapters are responsible for implementing the ports and managing external communication. They allow the application to persist data or communicate with APIs without impacting the domain logic.
+
+- **`SqlCustomerRepository`**: Implements `ICustomerRepository` using a SQL database for persistent storage.
+- **`InMemoryRentalRepository`**: Implements `IRentalRepository` using an in-memory data store, commonly used for testing.
+
+---
+
+### ⚙️ **Services as Orchestrators**
+
+Application services such as `CustomerService` and `RentalService` orchestrate the flow of data and operations within the system. They do not contain any business logic but coordinate between domain entities, repositories (ports), and other services to execute use cases.
+
+---
+
+### 📝 **Example Flow**: Registering a New Customer
+
+1. The **Web API** receives a registration request and forwards it to the `CustomerService`.
+2. The `CustomerService` creates a new `Customer` entity and invokes the `ICustomerRepository` to persist it.
+3. The `SqlCustomerRepository` (adapter) performs the actual database operation, utilizing **Entity Framework Core** for persistence.
+
+---
+
+This architecture ensures that the core domain remains flexible, maintainable, and free from direct dependencies on external infrastructure. 💡
+
 
 ## 🔎 Strategic Domain-Driven Design
 
