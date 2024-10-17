@@ -18,10 +18,10 @@ namespace MyTrailer.Domain.Aggregates
         }
 
         // Update billing information
-        public void UpdateBillingInformation(BillingInformation billingInformation)
-        {
-            PartnerCompany.BillingInformation = billingInformation;
-        }
+        //public void UpdateBillingInformation(BillingInformation billingInformation)
+        //{
+        //    PartnerCompany.BillingInformation = billingInformation;
+        //}
 
         // Other PartnerCompany behavior (e.g., add locations)
     }

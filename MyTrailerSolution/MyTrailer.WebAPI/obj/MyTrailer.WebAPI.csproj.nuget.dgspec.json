@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\MyTrailer.Domain.csproj": {
                 "projectPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\MyTrailer.Domain.csproj"
+              },
+              "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Infrastructure\\MyTrailer.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Infrastructure\\MyTrailer.Infrastructure.csproj"
               }
             }
           }
@@ -261,6 +264,9 @@
               "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Application\\MyTrailer.Application.csproj": {
                 "projectPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Application\\MyTrailer.Application.csproj"
               },
+              "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\MyTrailer.Domain.csproj": {
+                "projectPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Domain\\MyTrailer.Domain.csproj"
+              },
               "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Infrastructure\\MyTrailer.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\moham\\source\\repos\\GroupMJ_MyTrailer\\MyTrailerSolution\\MyTrailer.Infrastructure\\MyTrailer.Infrastructure.csproj"
               }
@@ -283,6 +289,14 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.10, )"
             },

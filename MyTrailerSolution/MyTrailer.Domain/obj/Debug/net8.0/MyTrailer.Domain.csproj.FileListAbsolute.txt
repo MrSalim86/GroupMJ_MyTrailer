@@ -3,3 +3,10 @@ C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain
 C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.AssemblyInfo.cs
 C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.csproj.CoreCompileInputs.cache
 C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.sourcelink.json
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\bin\Debug\net8.0\MyTrailer.Domain.deps.json
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\bin\Debug\net8.0\MyTrailer.Domain.dll
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\bin\Debug\net8.0\MyTrailer.Domain.pdb
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.dll
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\refint\MyTrailer.Domain.dll
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\MyTrailer.Domain.pdb
+C:\Users\moham\source\repos\GroupMJ_MyTrailer\MyTrailerSolution\MyTrailer.Domain\obj\Debug\net8.0\ref\MyTrailer.Domain.dll

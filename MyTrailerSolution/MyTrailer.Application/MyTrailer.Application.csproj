@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyTrailer.Domain\MyTrailer.Domain.csproj" />
+    <ProjectReference Include="..\MyTrailer.Infrastructure\MyTrailer.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

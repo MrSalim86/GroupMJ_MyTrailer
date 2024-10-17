@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lqXmMQNWVw4+kA98zjvvKZpL1f5UNsmgF0Cpc6doWCc=",
+  "Source": "MyTrailer.WebAPI",
+  "BasePath": "_content/MyTrailer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

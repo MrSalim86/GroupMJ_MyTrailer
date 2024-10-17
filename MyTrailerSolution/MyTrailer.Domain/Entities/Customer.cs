@@ -28,16 +28,22 @@ namespace MyTrailer.Domain.Entities
         }
 
         // Add the UpdateAddress method
+
         public void UpdateAddress(Address newAddress)
         {
-            if (newAddress == null)
-            {
-                throw new ArgumentNullException(nameof(newAddress), "Address cannot be null");
-            }
-
-            Address = newAddress;
+            Address = newAddress ?? throw new ArgumentNullException(nameof(newAddress));
         }
 
+        // Add method to update the name
+        public void UpdateName(string newName)
+        {
+            if (string.IsNullOrWhiteSpace(newName))
+            {
+                throw new ArgumentException("Name cannot be empty", nameof(newName));
+            }
+
+            Name = newName;
+        }
         public void AddRentalToHistory(Rental rental)
         {
             RentalHistory.Add(rental);

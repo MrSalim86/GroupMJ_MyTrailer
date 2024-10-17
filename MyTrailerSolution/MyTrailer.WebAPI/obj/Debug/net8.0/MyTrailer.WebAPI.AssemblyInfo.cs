@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyTrailer.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f79b1ee6472dfcc0c8377b9a2adda2fbb87ced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47d2ab611bd322b1915b528f46c85c11eb33b47b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyTrailer.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyTrailer.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
