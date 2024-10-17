@@ -9,34 +9,40 @@
 
 ---
 
-## 📜 Scenarieoversigt:
-**MyTrailer** tilbyder trailerudlejning via partnere som f.eks. Jem & Fix og Fog, hvor kunder kan leje trailere til korttidsbrug. Vores mål er at gøre det nemt for kunderne at leje en trailer gennem en mobilapp.
+## 📜 Scenario Overview:
+**MyTrailer** offers trailer rentals through partners such as Jem & Fix and Fog, where customers can rent trailers for short-term use. Our goal is to make it easy for customers to rent a trailer through a mobile app.
 
-Med appen kan kunderne:
-- Vælge en trailer fra en specifik lokation.
-- Leje trailere i op til 24 timer.
-- Tilkøbe ekstra services som forsikring.
-- Undgå bøder ved at aflevere traileren til tiden.
-- Booke langtidsleje (overnatning) via en separat hjemmeside.
-
----
-
-## 🎯 Forretningsmål:
-- **Facilitere trailerudlejning** via en brugervenlig mobilapp.
-- **Administrere trailer-tilgængelighed** på forskellige partnerlokationer.
-- **Håndtere betalinger** for forsikringer og gebyrer ved forsinket aflevering.
-- **Vedligeholde samarbejder** med virksomheder, der stiller parkeringsplads til rådighed for trailere.
-- **Separat håndtering** af langtidsleje fra korttidsleje.
+With the app, customers can:
+- Select a trailer from a specific location.
+- Rent trailers for up to 24 hours.
+- Purchase additional services such as insurance.
+- Avoid penalties by returning the trailer on time.
+- Book long-term rentals (overnight) via a separate website.
 
 ---
 
-## 📱 Teknologistak:
-- [Tilføj teknologistak her, f.eks. React, Node.js, MySQL osv.]
+## 🎯 Business Goals:
+- **Facilitate trailer rentals** through a user-friendly mobile app.
+- **Manage trailer availability** at various partner locations.
+- **Handle payments** for insurance and late return fees.
+- **Maintain partnerships** with businesses providing parking space for trailers.
+- **Separate handling** of long-term and short-term rentals.
 
-## 🚀 Installation og Opsætning:
-1. Klon repositoryet:
+---
+
+## 📱 Technology Stack:
+- **ASP.NET Core**: For building backend services and APIs.
+- **Entity Framework**: Used for database interaction and ORM.
+- **Swagger**: For API documentation and testing.
+- **Azure AD**: Authentication using **OpenID Connect**.
+- **In-memory database**: Used for testing and development.
+
+
+## 🚀 Installation and Setup:
+1. Clone the repository:
    ```bash
    git clone https://github.com/MrSalim86/GroupMJ_MyTrailer.git
+
 
 ## 🚚 Trailer Rental System
 
