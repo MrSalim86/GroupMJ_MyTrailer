@@ -63,6 +63,45 @@ The architecture follows the **Ports and Adapters (Hexagonal Architecture)** pat
 
 This combination of **DDD** and **Hexagonal Architecture** ensures a highly scalable and maintainable system for managing trailer rentals. 🚀
 
+## 🏗️ How the Model Was Designed Using Domain-Driven Design (DDD)
+
+The domain model for the **Trailer Rental System** was crafted following **Domain-Driven Design (DDD)** principles to accurately reflect the business processes in the trailer rental industry. The model focuses on four key building blocks: **Entities**, **Value Objects**, **Aggregates**, and **Domain Services**.
+
+---
+
+### 📦 Core Components of the Domain Model
+
+#### 🧑‍💼 **Entities**  
+Entities represent real-world concepts that have a unique identity within the system:
+- **Customer**: Represents a person renting a trailer, with attributes like `Name`, `Email`, and `Address`.
+- **Rental**: Represents the rental process, with attributes like `RentalPeriod`, `Trailer`, `Customer`, and `TotalFee`.
+
+#### 🛠️ **Value Objects**  
+Value Objects are immutable and lack unique identity; they are compared by their content:
+- **Address**: Defines a customer's address (`Street`, `City`, `PostalCode`).
+- **RentalPeriod**: Captures the `StartDate` and `EndDate` of a rental.
+
+---
+
+### 🗂️ Aggregates: Ensuring Data Consistency
+
+Aggregates bundle entities and value objects to ensure data consistency. Each aggregate forms a boundary within which consistency is maintained.
+
+- **CustomerAggregate**: Handles customer management, including registration and profile updates.
+- **RentalAggregate**: Manages the lifecycle of a rental, from booking to completion, and includes rental fee calculations.
+
+---
+
+### 🔧 Domain Services: Business Logic at its Core
+
+**Domain Services** encapsulate complex business logic that doesn’t belong to an entity or value object:
+
+- **RentalFeeCalculatorService**: Calculates rental fees based on rental duration, insurance, and any applicable late fees.
+
+---
+
+By leveraging **DDD**, the model aligns closely with the real-world processes of the trailer rental industry, ensuring that the system evolves naturally with business requirements.
+
 
 ## 🔎 Strategic Domain-Driven Design
 
