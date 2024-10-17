@@ -38,6 +38,31 @@ Med appen kan kunderne:
    ```bash
    git clone https://github.com/MrSalim86/GroupMJ_MyTrailer.git
 
+## 🚚 Trailer Rental System
+
+### 📋 Overview
+The **Trailer Rental System** is designed to manage the rental process for trailers placed at various partner locations (e.g., hardware stores, depots). The system allows customers to rent trailers for short-term use, such as transporting goods or moving materials.
+
+### 🛠 Key Features
+- **Trailer Availability Management**: Keep track of available trailers at different locations.
+- **Rental Fee Calculation**: Automatically calculate fees based on rental duration.
+- **Customer Registrations**: Register and manage customer details.
+
+---
+
+### 🧠 Architectural Approach
+
+The system is implemented using **Domain-Driven Design (DDD)** principles, which ensures that the **business logic** is the heart of the system. This approach allows the core domain to evolve **independently** of external technologies like databases or web frameworks.
+
+### 🔌 Hexagonal Architecture
+The architecture follows the **Ports and Adapters (Hexagonal Architecture)** pattern, providing:
+- **Flexibility**: Easily adapt the system to different infrastructures.
+- **Decoupling**: Isolate core business logic from external concerns, making the system more robust and adaptable.
+
+---
+
+This combination of **DDD** and **Hexagonal Architecture** ensures a highly scalable and maintainable system for managing trailer rentals. 🚀
+
 
 ## 🔎 Strategic Domain-Driven Design
 
